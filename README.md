@@ -1,6 +1,6 @@
 # Indução Moderna
 
-Criar um site no estilo blog educativo e moderno sobre eletromagnetismo, focado nas aplicações tecnológicas da indução eletromagnética com base no PDF anexado (Aula 29 / Aula 34 - Indutores e Indutância).
+Criar um site no estilo blog educativo e moderno sobre eletromagnetismo, focado nas aplicações tecnológicas da indução eletromagnética com base no PDF anexado (Aula 29 / Aula 34 - Indutores e Indutância) na disciplina de Eletromagnetismo da UFMG.
 
 O blog deve conter:
 1. Artigos aprofundados sobre as principais aplicações tecnológicas:
